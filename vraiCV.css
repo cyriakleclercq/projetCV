@@ -1,0 +1,53 @@
+
+body {
+    background-color: #CEBFFF !important;
+}
+.container {
+    padding-top: 2%;
+    background: white;
+}
+#twitter {
+    height: 50px;
+    width: 50px;
+}
+
+#linkedin {
+    height: 75px;
+    width: 75px;
+}
+
+
+#github {
+    height: 50px;
+    width: 50px;
+}
+
+#photo {
+    height: 200px;
+    width: 200px;
+    background-image: url("bonhomme-logo.png");
+    background-size: 38%;
+    background-repeat: no-repeat;
+
+}
+
+#dd {
+    padding-left: 0 !important;
+}
+
+
+#ss {
+    padding-bottom: 2% !important;
+}
+
+#aa {
+    border-radius: 7px;
+}
+
+#bb {
+    border-radius: 7px;
+}
+
+#cc {
+    border-radius: 7px;
+}
